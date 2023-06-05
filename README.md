@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba de prep course de henry
+Esta es la prueba para crear un repositorio local y subirlo a gifthub
